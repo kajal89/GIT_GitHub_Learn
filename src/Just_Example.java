@@ -4,7 +4,7 @@ public class Just_Example {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("This file is taken to learn GIT");
-		System.out.println("Welcome to page");
+		System.out.println("Welcome to page just example ");
 
 	}
 
